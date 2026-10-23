@@ -1,1 +1,3 @@
-Change from feature branc independently
+Change from feature branch independently
+
+Change from main independently
